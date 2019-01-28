@@ -1,0 +1,6 @@
+[submodule "dirtest"]
+	path = dirtest
+	url = http://github.com/nick-ve/dirtest
+[submodule "hello-world"]
+	path = hello-world
+	url = http://github.com/nick-ve/hello-world
